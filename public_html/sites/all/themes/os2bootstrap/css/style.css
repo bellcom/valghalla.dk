@@ -1,0 +1,198 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+
+.content-menu li a {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	}
+
+.content-menu li a:hover {
+	background-color: #e6e6e6;
+	}
+.content-menu li.active-trail {border-left: 4px solid #333}
+
+.content-menu .active, .content-menu .active li {}
+.content-menu a.active { font-weight: bold;}
+.content-menu li { padding-left: 5px; padding-right: 0; }
+.content-menu li li { font-size: 95%; padding-left: 5px; padding-right: 0}
+.content-menu li li li {}
+.content-menu li li li li {}
+.content-menu li li li li li {}
+.content-menu li li li li li li {}
+
+ul.expanded { margin: 0; padding: 0}
+
+ul.expanded li.collapsed a { display: inline-table}
+ul.expanded li.collapsed::before {content:'\e82b'; display: inline-block; margin-left: -1.3em; width: 1.3em; font-family: "fontello";}
+
+/*
+.emner.refinement-panel li a:before {
+    position: static
+}
+
+.content-menu li a {
+    position: relative;
+    word-wrap: break-word;
+    width: auto;
+    display: block
+}
+
+.content-menu li a:before {
+    position: absolute
+}
+
+.content-menu li .well ul.list a {
+    display: inline-block
+}
+
+.content-menu li .well ul.list a:before {
+    content: ''
+}
+
+.content-menu li.active a {
+    padding-left: 0
+}
+
+.content-menu li.active-trail.level-0.open>a {
+    margin-left: 0;
+    text-indent: 15px
+}
+
+.content-menu li.active-trail.level-0.open>a:before {
+    text-indent: -15px
+}
+
+.content-menu li.active-trail.level-0.open>a.parent:focus {
+    text-indent: 0
+}
+
+.content-menu li.active-trail.level-0.open>a.parent:focus:before {
+    text-indent: 0
+}
+
+.content-menu li.active-trail.level-0>a {
+    margin-left: 0
+}
+
+.content-menu li.active-trail.level-0>a:focus {
+    margin-left: 0;
+    text-indent: 15px
+}
+
+.content-menu li.active-trail.level-0>a:focus:before {
+    text-indent: -15px
+}
+
+.content-menu li.active-trail.level-0>a.parent:focus {
+    text-indent: 0
+}
+
+.content-menu li.active-trail.level-0>a.parent:focus:before {
+    text-indent: 0
+}
+
+.content-menu li.active-trail>a.article, .content-menu li.active-trail>a.action {
+    padding-left: 25px
+}
+
+.content-menu li.active-trail>a.article:before, .content-menu li.active-trail>a.action:before {
+    padding-right: 10px;
+    margin-left: -25px
+}
+
+.content-menu li.active-trail a {
+    display: block
+}
+
+.content-menu li.active-trail a.article:before {
+    content: "\f0f6"
+}
+
+.content-menu li.active-trail a.action:before {
+    content: "\f109"
+}
+
+.content-menu li.active-trail a.parent {
+    padding-left: 25px
+}
+
+.content-menu li.active-trail a.parent:before {
+    margin-left: -25px
+}
+
+.content-menu li.active-trail a.article:before {
+    text-indent: 5px
+}
+
+.content-menu li.open a.article:before {
+    text-indent: 0
+}
+
+.emner>li.active-trail>a:focus, .emner>li.active-trail>a.parent:focus {
+    padding-left: 35px
+}
+
+.content-menu .active-trail-menu {
+    width: auto
+}
+
+.content-menu .active-trail-menu .row-fluid {
+    width: auto
+}
+
+.content-menu .active-trail-menu .row-fluid.col-single {
+    width: 305px
+}
+
+.content-menu .active-trail-menu .row-fluid.col-single .span6 {
+    width: 100%
+}
+
+.content-menu .active-trail-menu .row-fluid.col-double {
+    width: 690px
+}
+
+.content-menu .active-trail.level-10 {
+    margin-left: 100px
+}
+
+.content-menu .active-trail.level-9 {
+    margin-left: 90px
+}
+
+.content-menu .active-trail.level-8 {
+    margin-left: 80px
+}
+
+.content-menu .active-trail.level-7 {
+    margin-left: 70px
+}
+
+.content-menu .active-trail.level-6 {
+    margin-left: 60px
+}
+
+.content-menu .active-trail.level-5 {
+    margin-left: 50px
+}
+
+.content-menu .active-trail.level-4 {
+    margin-left: 40px
+}
+
+.content-menu .active-trail.level-3 {
+    margin-left: 30px
+}
+
+.content-menu .active-trail.level-2 {
+    margin-left: 20px
+}
+
+.content-menu .active-trail.level-1 {
+    margin-left: 10px
+}
+*/
