@@ -1,0 +1,137 @@
+// |--------------------------------------------------------------------------
+// | Block
+// |--------------------------------------------------------------------------
+// |
+// | This file contains styles for the following:
+// | - .block
+// |
+
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+
+$block-inner-spacing: 20px;
+
+// Menu indentations.
+$block-menu-level-1-indentation: $block-inner-spacing;
+$block-menu-level-2-indentation: floor( ( ($grid-gutter-width * 1) / 2) ) + $block-inner-spacing;
+$block-menu-level-3-indentation: floor( ( ($grid-gutter-width * 2) / 2) ) + $block-inner-spacing;
+$block-menu-level-4-indentation: floor( ( ($grid-gutter-width * 3) / 2) ) + $block-inner-spacing;
+$block-menu-level-5-indentation: floor( ( ($grid-gutter-width * 4) / 2) ) + $block-inner-spacing;
+
+// --------------------------------------------------
+// Mixins
+// --------------------------------------------------
+
+@mixin block-mixin() {}
+
+// --------------------------------------------------
+// Styling
+// --------------------------------------------------
+
+.block {}
+
+// --------------------------------------------------
+// Variants
+// --------------------------------------------------
+
+.block-menu,
+.block-book {
+  padding: $block-inner-spacing;
+  padding-bottom: 0;
+
+  background-color: $body-bg-secondary;
+
+  .block-title {
+    display: block;
+
+    margin-top: 0 - $block-inner-spacing;
+    margin-right: 0 - $block-inner-spacing;
+    margin-bottom: 0;
+    margin-left: 0 - $block-inner-spacing;
+
+    padding: 15px $block-inner-spacing;
+
+    font-size: $font-size-h3;
+
+    background-color: $brand-primary;
+
+    &,
+    a {
+
+      &, &:hover {
+        color: #fff;
+      }
+    }
+  }
+
+  .menu {
+    margin: 0;
+    padding: 0 !important;
+
+    > li > a {
+      padding-left: $block-menu-level-1-indentation !important;
+      padding-right: $block-inner-spacing;
+    }
+
+    > li > .menu {
+
+      > li > a {
+        padding-left: $block-menu-level-2-indentation !important;
+      }
+
+      > li > .menu {
+
+        > li > a {
+          padding-left: $block-menu-level-3-indentation !important;
+        }
+
+        > li > .menu {
+
+          > li > a {
+            padding-left: $block-menu-level-4-indentation !important;
+          }
+        }
+      }
+    }
+  }
+
+  > .menu {
+    margin-left: 0 - $block-inner-spacing;
+    margin-right: 0 - $block-inner-spacing;
+  }
+}
+
+// --------------------------------------------------
+// Responsive
+// --------------------------------------------------
+
+// Mobile - and up
+@media #{$breakpoint-mobile-and-up} {}
+
+// Mobile - only
+@media #{$breakpoint-mobile-only} {}
+
+// Tablet - and up
+@media #{$breakpoint-tablet-and-up} {}
+
+// Tablet - only
+@media #{$breakpoint-tablet-only} {}
+
+// Desktop - and up
+@media #{$breakpoint-desktop-and-up} {}
+
+// Desktop - only
+@media #{$breakpoint-desktop-only} {}
+
+// Large desktop - and up
+@media #{$breakpoint-large-desktop-and-up} {}
+
+// Print
+@media print {}
+
+// Touch
+.touchevents {}
+
+// No touch
+.no-touchevents {}

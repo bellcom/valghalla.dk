@@ -1,0 +1,93 @@
+// |--------------------------------------------------------------------------
+// | Autocomplete
+// |--------------------------------------------------------------------------
+// |
+// | This file contains styles for the following:
+// | - .autocomplete
+// |
+
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Mixins
+// --------------------------------------------------
+
+@mixin autocomplete-mixin() {}
+
+// --------------------------------------------------
+// Styling
+// --------------------------------------------------
+
+.ui-menu {
+  padding: 0;
+
+  border-radius: 0;
+  border-color: $input-border !important;
+
+  .ui-menu-item {
+
+    a {
+      font-family: $font-family-base;
+      font-size: $font-size-base;
+      font-weight: $font-weight;
+
+      color: $text-color;
+      background-color: $body-bg !important;
+
+      &:focus,
+      &:hover {
+        background-color: $body-bg-secondary !important;
+      }
+
+      &,
+      &:hover,
+      &:focus {
+        margin: 0 !important;
+        padding: $padding-small-vertical $padding-small-horizontal !important;
+
+        border: 0 !important;
+        background-image: none !important;
+      }
+    }
+  }
+}
+
+// --------------------------------------------------
+// Variants
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Responsive
+// --------------------------------------------------
+
+// Mobile - and up
+@media #{$breakpoint-mobile-and-up} {}
+
+// Mobile - only
+@media #{$breakpoint-mobile-only} {}
+
+// Tablet - and up
+@media #{$breakpoint-tablet-and-up} {}
+
+// Tablet - only
+@media #{$breakpoint-tablet-only} {}
+
+// Desktop - and up
+@media #{$breakpoint-desktop-and-up} {}
+
+// Desktop - only
+@media #{$breakpoint-desktop-only} {}
+
+// Large desktop - and up
+@media #{$breakpoint-large-desktop-and-up} {}
+
+// Print
+@media print {}
+
+// Touch
+.touchevents {}
+
+// No touch
+.no-touchevents {}

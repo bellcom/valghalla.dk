@@ -1,0 +1,95 @@
+// |--------------------------------------------------------------------------
+// | External signup
+// |--------------------------------------------------------------------------
+// |
+// | This file contains styles for the following:
+// | - .page-valghalla-external-signup
+// |
+
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Mixins
+// --------------------------------------------------
+
+@mixin page-valghalla-external-signup-mixin() {}
+
+// --------------------------------------------------
+// Styling
+// --------------------------------------------------
+
+.page-valghalla-external-signup {
+
+  .form-item {
+
+    .input-group {
+      display: block;
+
+      .form-control {
+        display: block;
+
+        float: none;
+      }
+    }
+
+    .input-group-addon {
+      display: none;
+    }
+  }
+
+  .form-item-role-select {
+    margin-bottom: $form-group-margin-bottom;
+  }
+}
+
+#js-polling-station-details {
+  margin-top: $form-group-margin-bottom;
+  padding: $boxy-body-spacing-top-bottom $boxy-spacing-left-right;
+
+  background-color: $body-bg-secondary;
+
+  &.no-content {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+// --------------------------------------------------
+// Variants
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Responsive
+// --------------------------------------------------
+
+// Mobile - and up
+@media #{$breakpoint-mobile-and-up} {}
+
+// Mobile - only
+@media #{$breakpoint-mobile-only} {}
+
+// Tablet - and up
+@media #{$breakpoint-tablet-and-up} {}
+
+// Tablet - only
+@media #{$breakpoint-tablet-only} {}
+
+// Desktop - and up
+@media #{$breakpoint-desktop-and-up} {}
+
+// Desktop - only
+@media #{$breakpoint-desktop-only} {}
+
+// Large desktop - and up
+@media #{$breakpoint-large-desktop-and-up} {}
+
+// Print
+@media print {}
+
+// Touch
+.touchevents {}
+
+// No touch
+.no-touchevents {}

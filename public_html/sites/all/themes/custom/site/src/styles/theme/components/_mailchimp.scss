@@ -1,0 +1,164 @@
+// |--------------------------------------------------------------------------
+// | Mailchimp
+// |--------------------------------------------------------------------------
+// |
+// | This file contains styles for the following:
+// | - .mailchimp
+// |
+
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Mixins
+// --------------------------------------------------
+
+@mixin mailchimp-mixin() {}
+
+// --------------------------------------------------
+// Styling
+// --------------------------------------------------
+
+#mc_embed_signup {
+  padding: $block-inner-spacing;
+
+  background-color: $body-bg-secondary !important;
+}
+
+#mc-embedded-subscribe-form {
+  padding: 0 !important;
+
+  h2 {
+    display: block;
+
+    margin-top: 0 - $block-inner-spacing !important;
+    margin-right: 0 - $block-inner-spacing !important;
+    margin-bottom: 0 !important;
+    margin-left: 0 - $block-inner-spacing !important;
+
+    padding: 15px $block-inner-spacing !important;
+
+    font-size: $font-size-h3;
+
+    background-color: $brand-primary;
+
+    &,
+    a {
+
+      &, &:hover {
+        color: #fff;
+      }
+    }
+  }
+
+  .indicates-required {
+    padding: 15px 0;
+    margin-right: 0 !important;
+
+    text-align: left !important;
+  }
+
+  .mc-field-group {
+    @extend .form-group;
+
+    label {
+      display: block;
+    }
+
+    select,
+    textarea,
+    input[type="text"],
+    input[type="password"],
+    input[type="datetime"],
+    input[type="datetime-local"],
+    input[type="date"],
+    input[type="month"],
+    input[type="time"],
+    input[type="week"],
+    input[type="number"],
+    input[type="email"],
+    input[type="url"],
+    input[type="search"],
+    input[type="tel"],
+    input[type="color"] {
+      @extend .form-control;
+    }
+
+    .asterisk {
+      top: 39px !important;
+    }
+  }
+
+  .asterisk {
+    font-size: 20px !important;
+
+    color: red !important;
+  }
+
+  fieldset {
+    padding: 5px 0 0 0;
+
+    border: none;
+  }
+
+  .radio,
+  .checkbox {
+    font-weight: normal;
+  }
+
+  .radio input[type="radio"],
+  .radio-inline input[type="radio"],
+  .checkbox input[type="checkbox"],
+  .checkbox-inline input[type="checkbox"] {
+    position: relative;
+
+    margin-left: 0;
+    margin-right: 8px;
+  }
+
+  input[type="submit"].button {
+    height: auto;
+
+    @extend .btn;
+    @extend .btn-primary;
+  }
+}
+
+// --------------------------------------------------
+// Variants
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Responsive
+// --------------------------------------------------
+
+// Mobile - and up
+@media #{$breakpoint-mobile-and-up} {}
+
+// Mobile - only
+@media #{$breakpoint-mobile-only} {}
+
+// Tablet - and up
+@media #{$breakpoint-tablet-and-up} {}
+
+// Tablet - only
+@media #{$breakpoint-tablet-only} {}
+
+// Desktop - and up
+@media #{$breakpoint-desktop-and-up} {}
+
+// Desktop - only
+@media #{$breakpoint-desktop-only} {}
+
+// Large desktop - and up
+@media #{$breakpoint-large-desktop-and-up} {}
+
+// Print
+@media print {}
+
+// Touch
+.touchevents {}
+
+// No touch
+.no-touchevents {}

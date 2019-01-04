@@ -1,0 +1,136 @@
+// These styles are inherited from old theme. I am too scared not to include
+// these.
+
+/**
+ * Status on frontpage
+ */
+.pane-valhalla-blocks-party-constituency-status,
+.pane-valhalla-blocks-party-status {
+  font-size: 11px;
+}
+
+.column-label,
+.column-count {
+  width: 55px;
+  text-align: center;
+}
+
+/**
+ * Volunteer pollingstation page
+ */
+.volunteer-action {
+  @include btn();
+  @include btn-sm();
+
+  &.edit{
+    @include btn-default();
+    display: none;
+  }
+
+  &.add{
+    @include btn-success();
+  }
+
+  &.remove{
+    @include btn-danger();
+    display: none;
+  }
+}
+
+dd.assigned {
+  .edit,
+  .remove{
+    display: inline-block;
+  }
+  .add {
+    display: none;
+  }
+}
+
+dd {
+  .spinner-loading {
+    display: none;
+  }
+}
+
+dd.loading {
+  .spinner-loading {
+    display: inline-block;
+  }
+}
+
+p.volunteer {
+  @include well();
+  @include well-sm();
+  padding-top: 6px;
+  padding-bottom: 6px;
+  margin-bottom: 0px;
+}
+
+.page-actions{
+  @include well();
+  @include well-sm();
+  position: absolute;
+  right: 20px;
+  top: 0;
+  a {
+    font-size: 11px;
+  }
+}
+
+.dataTables_wrapper input {
+  @include form-control();
+}
+
+.paging_two_button a {
+  @include btn();
+  @include btn-default();
+}
+
+@media (min-width:992px){.modal-lg{width:900px}}
+
+.form-reset {
+  padding-top: 23px;
+}
+
+[id*=-birthdate] .form-group {
+  width: 110px;
+}
+
+// Lists
+.page-valghalla-lists-deltagere {
+  .print-button {
+    position: relative;
+  }
+
+  .col-left,
+  .col-right {
+    vertical-align: top;
+    width: 50%;
+    display: inline-block;
+  }
+
+  button#edit-print {
+    position: absolute;
+    @include btn-info();
+    right: 0;
+    top: 50px;
+  }
+
+  button#edit-submit {
+    @include btn-success();
+  }
+
+  .page-header {
+    //.no-print();
+  }
+
+  .sign-col {
+    min-width: 200px;
+  }
+
+  h5 {
+    font-weight: bold;
+  }
+}
+

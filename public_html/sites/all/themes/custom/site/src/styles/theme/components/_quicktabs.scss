@@ -1,0 +1,93 @@
+// |--------------------------------------------------------------------------
+// | Quicktabs
+// |--------------------------------------------------------------------------
+// |
+// | This file contains styles for the following:
+// | - .quicktabs-tabs
+// |
+
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Mixins
+// --------------------------------------------------
+
+@mixin quicktabs-tabs-mixin() {}
+
+// --------------------------------------------------
+// Styling
+// --------------------------------------------------
+
+ul.quicktabs-tabs {
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: inline-block;
+
+    padding: 0;
+
+    &.active > a {
+
+      &, &:hover {
+        color: #fff;
+        background-color: $brand-primary;
+      }
+    }
+  }
+
+  a {
+    display: block;
+
+    padding: $padding-base-vertical $padding-base-horizontal;
+  }
+}
+
+.quicktabs_main {
+
+  .view-empty {
+    padding: $boxy-body-spacing-top-bottom $boxy-spacing-left-right;
+
+    background-color: $boxy-body-background-color;
+  }
+}
+
+// --------------------------------------------------
+// Variants
+// --------------------------------------------------
+
+// --------------------------------------------------
+// Responsive
+// --------------------------------------------------
+
+// Mobile - and up
+@media #{$breakpoint-mobile-and-up} {}
+
+// Mobile - only
+@media #{$breakpoint-mobile-only} {}
+
+// Tablet - and up
+@media #{$breakpoint-tablet-and-up} {}
+
+// Tablet - only
+@media #{$breakpoint-tablet-only} {}
+
+// Desktop - and up
+@media #{$breakpoint-desktop-and-up} {}
+
+// Desktop - only
+@media #{$breakpoint-desktop-only} {}
+
+// Large desktop - and up
+@media #{$breakpoint-large-desktop-and-up} {}
+
+// Print
+@media print {}
+
+// Touch
+.touchevents {}
+
+// No touch
+.no-touchevents {}
