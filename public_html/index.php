@@ -1,24 +1,4 @@
 <?php
-function stripDangerousValues($input) {
-    if (is_array($input)) {
-        foreach ($input as $key => $value) {
-            if ($key !== '' && $key[0] === '#') {
-                unset($input[$key]);
-            }
-            else {
-                $input[$key] = stripDangerousValues($input[$key]);
-            }
-        }
-    }
-    return $input;
-}
-$_REQUEST = stripDangerousValues($_REQUEST);
-$_GET = stripDangerousValues($_GET);
-$_POST = stripDangerousValues($_POST);
-
-
-
-
 
 /**
  * @file
